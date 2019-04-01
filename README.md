@@ -1,2 +1,2 @@
 # MERN-Boiler-Plate
-application is the boilerplate fr MERN project
+application is the boilerplate for MERN project
